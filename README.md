@@ -9,7 +9,7 @@
 
 和
 
-[my_dream/koolproxy official(]https://houzi-.coding.net/p/my_dream/d/my_dream/git/)
+[my_dream/koolproxy official](https://houzi-.coding.net/p/my_dream/d/my_dream/git/)
 
 的规则.
 
