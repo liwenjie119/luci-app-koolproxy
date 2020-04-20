@@ -38,7 +38,7 @@ iptables -t nat -L PREROUTING
 观察**KOOLPROXY**规则是否在所使用的代理的规则之上.
 
 ### 内置规则列表
-[kp.dat](https://raw.githubusercontent.com/user1121114685/koolproxyR_rule_list/master/kp.dat)
+[kp.dat](https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/kp.dat)
 
 [easylistchina](https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/easylistchina.txt)
 
