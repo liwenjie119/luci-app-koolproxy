@@ -1,7 +1,7 @@
 ## luci-app-koolproxy modified
 基于
 
-[openwrt-develop/luci-app-koolproxy](https://github.com/openwrt-develop/luci-app-koolproxy)
+[openwrt-develop/luci-app-koolproxy](https://github.com/openwrt-develop/luci-app-koolproxy) [openwrt-develop/luci-app-koolproxyR](https://github.com/openwrt-develop/luci-app-koolproxyR)
 
 整合了
 
