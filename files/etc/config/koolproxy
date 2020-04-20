@@ -16,3 +16,16 @@ config rss_rule
 	option url 'https://github.com/user1121114685/koolproxyR_rule_list/raw/master/kpr_our_rule.txt'
 	option file 'kpr_our_rule.txt'
 
+config rss_rule
+	option load '2'
+	option name 'koolproxy.txt'
+	option url 'https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt'
+	option file 'koolproxy.txt'
+	
+config rss_rule
+	option load '3'
+	option name 'daily.txt'
+	option url 'https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/daily.txt'
+	option file 'daily.txt'
+	
+	

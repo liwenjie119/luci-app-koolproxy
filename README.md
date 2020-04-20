@@ -7,6 +7,10 @@
 
 [user1121114685/koolproxyR](https://github.com/user1121114685/koolproxyR)
 
+和
+
+[my_dream/koolproxy official(]https://houzi-.coding.net/p/my_dream/d/my_dream/git/)
+
 的规则.
 
 增加了内置规则和订阅规则一起更新
@@ -44,3 +48,5 @@ iptables -t nat -L PREROUTING
 
 ### 订阅规则列表
 [kpr_our_rule.txt](https://raw.githubusercontent.com/user1121114685/koolproxyR_rule_list/master/kpr_our_rule.txt)
+[koolproxy.txt](hhttps://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt)
+[daily.txt](https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/daily.txt)

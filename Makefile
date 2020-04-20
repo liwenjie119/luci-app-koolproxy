@@ -24,7 +24,7 @@ define Package/luci-app-koolproxy
 endef
 
 define Package/luci-app-koolproxy/description
-	This package contains LuCI configuration pages for koolproxy.
+	This package contains LuCI configuration pages for koolproxy use official rules.
 endef
 
 define Build/Compile
